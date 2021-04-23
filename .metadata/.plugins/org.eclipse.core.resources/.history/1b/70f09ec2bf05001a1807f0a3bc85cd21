@@ -1,0 +1,15 @@
+package logica;
+
+public class Inicio {
+	/*
+	public static void main(String[] args){
+
+		Rectangulo rec = new Rectangulo();
+		
+
+		rec.setAncho(ancho);
+		
+	}
+	
+	*/
+}
